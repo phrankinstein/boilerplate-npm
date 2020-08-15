@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jane Doe",
+	"description": "Please use at your own risk",
+	"keywords": [ "learning", "noob", "new", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
